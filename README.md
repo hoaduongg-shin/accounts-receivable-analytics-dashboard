@@ -96,7 +96,7 @@ The model supports analysis across operational activities, invoicing, payments, 
 
 | Document | Description |
 |---|---|
-| [01. Business Requirements](docs/01-business-requirements.md) | Business context and analytical requirements. |
+| [01. Business Requirements](docs/01-brd.md) | Business context and analytical requirements. |
 | [02. Business Glossary](docs/02-business-glossary.md) | Key business and receivables terminology. |
 | [03. Data Profile](docs/03-data-profile.md) | Overview of the project data. |
 | [04. Data Preparation and Quality](docs/04-data-preparation-and-quality.md) | Data preparation and quality considerations. |
