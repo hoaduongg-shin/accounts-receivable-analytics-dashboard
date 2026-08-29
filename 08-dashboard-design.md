@@ -112,7 +112,7 @@ The dashboard design follows several principles described in the project:
 - Colors and conditional indicators are used to support the identification of performance and risk.
 - Interactive functions allow users to move from an overall view to detailed analysis.
 
-8. Analytical Outcome
+## 8. Analytical Outcome
 
 The dashboard supports the identification of key issues in short-term receivables management.
 
@@ -127,7 +127,7 @@ These results demonstrate the analytical flow of the dashboard: identifying the 
 
 > All analytical results are based on the simulated dataset developed for this project and do not represent the actual financial or operational performance of any company.
 
-9. Dashboard Navigation
+## 9. Dashboard Navigation
 
 ```
 ┌─────────────┐
