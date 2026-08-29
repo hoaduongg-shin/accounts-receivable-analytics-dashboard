@@ -132,3 +132,5 @@ The project was developed as an analytical dashboard for short-term accounts rec
 The simulated dataset covers the business processes required for the project, including operational transactions, invoicing, payments, COD, settlement, and accounts receivable monitoring.
 
 The project is intended to demonstrate the process of transforming business requirements and receivables data into a multidimensional analytical model and Power BI dashboard.
+
+> The simulated dataset used for this project is not included in the repository due to file size and project data considerations.
