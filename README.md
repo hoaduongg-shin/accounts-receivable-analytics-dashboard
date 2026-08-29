@@ -80,17 +80,28 @@ The analysis of the simulated dataset identified several key findings:
 - Delayed payments were mainly associated with large customers and flexible credit terms.
 
 ## Dashboard Preview
-Overview
 
-Customer
+### Overview
 
-Payment
+<!-- Add dashboard overview image here -->
+
+### Customer
+
+<!-- Add customer analysis image here -->
+
+### Payment
+
+<!-- Add payment analysis image here -->
 
 ## Data Model
 
 The project uses a Galaxy Schema consisting of multiple fact and transactional tables connected through shared dimensions.
 
 The model supports analysis across operational activities, invoicing, payments, settlement, and monthly accounts receivable snapshots.
+
+<!-- Add data model image here -->
+
+For more details, see [Data Model](docs/06-data-model.md).
 
 ## Project Documentation
 
