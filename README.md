@@ -83,15 +83,15 @@ The analysis of the simulated dataset identified several key findings:
 
 ### Overview
 
-<!-- Add dashboard overview image here -->
+![Overview](images/overview.png)
 
 ### Customer
 
-<!-- Add customer analysis image here -->
+![Customer](images/customer.png)
 
 ### Payment
 
-<!-- Add payment analysis image here -->
+![Payment](images/payment.png)
 
 ## Data Model
 
