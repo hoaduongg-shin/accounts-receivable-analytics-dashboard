@@ -8,8 +8,6 @@ The model contains multiple fact tables representing different business processe
 
 Therefore, the model is designed as a **Galaxy Schema (Fact Constellation)**.
 
-![Data model](images/data_model.png)
-
 ---
 
 ## 2. Modeling Approach
